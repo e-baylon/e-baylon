@@ -28,6 +28,7 @@ I'm currently a Web Student at NAIT   :computer:
 |-----:|-----------|
 |     1| Javascript|
 |     2| PHP    |
+|     3| React    |
 
 </details>
 
