@@ -29,4 +29,5 @@ I'm currently a Web Student at NAIT   :computer:
 |     2| PHP    |
 
 </details>
+https://img.shields.io/badge/Lasted_Updated-October_29-blue
 
