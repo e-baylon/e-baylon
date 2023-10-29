@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'm currently a Web Student at NAIT   :computer:
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Last Updated_October 29-blue)
 <details>
 
 
