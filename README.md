@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a Web Student at NAIT
+I'm currently a Web Student at NAIT   :computer:
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 <details>
 
-  :computer:
+
 <summary>My top Languages</summary> 
 
 | Rank | Languages |
