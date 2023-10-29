@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<details>
+<summary>My top Languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
 |     2| PHP    |
+
+</details>
+
