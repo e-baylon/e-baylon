@@ -19,7 +19,7 @@ I'm currently a Web Student at NAIT
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 <details>
-<summary>My top Languages</summary>
+<summary>My top Languages</summary> :computer:
 
 | Rank | Languages |
 |-----:|-----------|
